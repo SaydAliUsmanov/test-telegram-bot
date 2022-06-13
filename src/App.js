@@ -4,6 +4,7 @@ const App = () => {
 	return (
 		<div>
 			skdfoskdfjioa
+			Hello world!
 		</div>
 	);
 };
