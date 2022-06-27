@@ -3,9 +3,7 @@ import React from 'react';
 const App = () => {
 	return (
 		<div>
-			skdfoskdfjioa
-			Hello world!
-			sdfasf
+			s;lsdkf;lsk
 		</div>
 	);
 };
