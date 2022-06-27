@@ -2,7 +2,8 @@ import React from 'react';
 
 const App = () => {
 	return (
-		<div>fds
+		<div>
+			жаг1
 		</div>
 	);
 };
