@@ -4,10 +4,7 @@ const App = () => {
 	return (
 		<div>
 			s;lsdkf;lsdfsfsdfkaof
-			asdfpokasdf
-			asdofkasdfsdfpokasdafasdfasdfpsaokdfasdfsdf
-			dsakfmaksdfmasddsffasdsddfsdfsffлотоasdkasmdk
-			lkmlkjlkdfgasdasd
+			asdfpokasd
 		</div>
 	);
 };
