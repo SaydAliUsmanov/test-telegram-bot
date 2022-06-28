@@ -10,7 +10,7 @@ const App = () => {
 			dsakfmaksdfmasddsffasdsddfsdfsffлотоasdkasmолтdk
 			lkmlkjlkdfgasdasddsskdjsdffsdsdfflkklsdnfdfglknklkkdsflkmelkefsd
 		</div>
-		div
+		<div></div>
 		</>
 	);
 };
