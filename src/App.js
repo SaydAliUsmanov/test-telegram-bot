@@ -4,8 +4,7 @@ const App = () => {
 	return (
 		<>
 		<div>
-			lkjlkuu
-			s;lsdkf;lsdfsfsdfkaof
+			s;lsdkf;lsdfsfsdfkaofsdf
 			asdfpokasdf,mmfsdfdsfsdfsddaskfnasf
 			asdofkasdfsdfpokasdafasdfasdfpsaokdfasdfssdsfdf
 			dsakfmaksdfmasddsffalkjlkassdsddfsdfsбffлотоasdkalijsmолыватdk
