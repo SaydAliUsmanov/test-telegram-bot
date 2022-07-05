@@ -6,9 +6,9 @@ const App = () => {
 		<div>
 			s;lsdkf;lsdfsfsdfkaofsdf
 			asdfpokasdf,mmfsdfdsfsdfsddaskfnasfsd
-			asdofkasdfsdfpokasdafasdfasdfpsaosdfkdfasdfssdassfdfsdf
-			dsakfmaksdfmasddsffalkjlkassdsddfsdfsбffлотоasdkalijsmdолываslmdтlkmdk
-			lkmlkjlkdfgasdasddsskdjsdffsdasdssdfsdflsdfkkl;lsdfgdnf;lsdddfkdspodkfglknklksakDMkdsflkmefdlsdfkgjlkefsdasjfdns
+			asdofkasdfsdfpokasdafasdfasdfsdsaosddffkdlfasdfssdassfdfsdf
+			dsakfmaksdfmasddsffalkjlkassdsddfsdfsб,kffлотоasdkalijsmdолываslmdтlkmdk
+			lkmlkjlkdfgasdasddsskdjsdffsdasdssdfsdflssdfkkl;lsdfgdnf;lsdddfkdspodkfglknklksakDMkdsflkmefdlsdfkgjlkefsdasjfdns
 		</div>
 		</>
 	);
