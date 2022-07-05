@@ -7,7 +7,7 @@ const App = () => {
 			s;lsdkf;lsdfsfsdfkaofsdf
 			asdfpokasdf,mmfsdfdsfsdfsddaskfnasfsd
 			asdofkasdfsdfpokasdafasdfasdfpsaosdfkdfasdfssdassfdfsdf
-			dsakfmaksdfmasddsffalkjlkassdsddfsdfsбffлотоasdkalijsmdолыватdk
+			dsakfmaksdfmasddsffalkjlkassdsddfsdfsбffлотоasdkalijsmdолываsdтdk
 			lkmlkjlkdfgasdasddsskdjsdffsdasdssdfsdflsdfkkl;lsdfgdnf;lddfkdspodkfglknklksakDMkdsflkmefdlsdfkgjlkefsdasjfdns
 		</div>
 		</>
