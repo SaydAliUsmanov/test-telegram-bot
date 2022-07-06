@@ -4,10 +4,10 @@ const App = () => {
 	return (
 		<>
 		<div>
-			s;lsdkf;lsdfsfsdfkaofsdf
+			s;lsdkf;lsdfsfsdfkaofsdfkj
 			asdfpokasdf,mmfsdfdsfsdfsddaskfnassdffsd
 			asdofkasdfsdfpokasdafasdfasdfsdsaoыsddffkdlfasdfssdassfdfsdf
-			dsakfmaksdfmasddsffalkjlkaываdjsfsdloigssdsddfsdfsб,sdfkffлотоasdkalijываsmdолываslmdтlkmdk
+			dsakfmaksdfmasddsffalkjlkaываdkjsfsdloigssdsddfsdfsб,sdfkffлотоasdkalijываsmdолываslmdтlkmdk
 			lkmlkjlkdfgasdasddssskdjsdffsdasdsdsassdksjdffsdflssdfkkl;lsdfgdnf;lsdddfkdspodkfglknklksakDMkdsflkmefdlsdfkgjlkefsdasjfdns
 		</div>
 		</>
