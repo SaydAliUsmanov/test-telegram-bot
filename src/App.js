@@ -5,10 +5,10 @@ const App = () => {
 		<>
 		<div>
 			s;lsdkf;lsdfsfsdfkaofsdf
-			asdfpokasdf,mmfsdfdsfsdfsddaskfnasfsd
-			asdofkasdfsdfpokasdafasdfasdfsdsaosddffkdlfasdfssdassfdfsdf
-			dsakfmaksdfmasddsffalkjlkaываdjfloigssdsddfsdfsб,sdfkffлотоasdkalijываsmdолываslmdтlkmdk
-			lkmlkjlkdfgasdasddsskdjsdffsdasdssdksjdffsdflssdfkkl;lsdfgdnf;lsdddfkdspodkfglknklksakDMkdsflkmefdlsdfkgjlkefsdasjfdns
+			asdfpokasdf,mmfsdfdsfsdfsddaskfnassdffsd
+			asdofkasdfsdfpokasdafasdfasdfsdsaoыsddffkdlfasdfssdassfdfsdf
+			dsakfmaksdfmasddsffalkjlkaываdjsfsdloigssdsddfsdfsб,sdfkffлотоasdkalijываsmdолываslmdтlkmdk
+			lkmlkjlkdfgasdasddssskdjsdffsdasdsdsassdksjdffsdflssdfkkl;lsdfgdnf;lsdddfkdspodkfglknklksakDMkdsflkmefdlsdfkgjlkefsdasjfdns
 		</div>
 		</>
 	);
